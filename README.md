@@ -1,5 +1,4 @@
-# Snake-Water-Gun.game
-This is a Classic game like Stone, Paper, Scissors but with different Elements.
+This is a Classic game like Stone, Paper, Scissors but with different Elements. this is a terminal based game
 
 Rules:
 First to 3 points win
