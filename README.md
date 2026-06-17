@@ -1,3 +1,4 @@
+# Snake Water Gun Game
 This is a Classic game like Stone, Paper, Scissors but with different Elements. this is a terminal based game
 
 Rules:
